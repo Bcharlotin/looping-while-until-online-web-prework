@@ -3,8 +3,8 @@ def using_while
  loop do
    puts "Wingardium Leviosa"
        
-    while levitation_force = 10 
-      break = 6
+    while levitation_force < 10 
+      break 
 	
 	#your code here
 end

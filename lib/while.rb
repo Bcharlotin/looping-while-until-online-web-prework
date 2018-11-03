@@ -7,7 +7,6 @@ def using_while
     while levitation_force < 10 
       break 
 	
-	#your code here
 end
 end
 end
